@@ -2,10 +2,9 @@
   margin: 4rem auto 0;
 
   box-sizing: border-box;
-  width: 100%;
+  width: 105%;
   padding: 90.21px 23.64px 261.8px 23.27px;
 
-  background-image: url(../../../images/lead/lead-polka.jpg);
   background-position: center;
   background-size: cover;
 }
